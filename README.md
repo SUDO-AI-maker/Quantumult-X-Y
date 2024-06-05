@@ -1,2 +1,1 @@
-# YY
-1250812280
+Quantumult X Y
