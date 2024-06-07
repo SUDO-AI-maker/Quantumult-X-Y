@@ -1,2 +1,0 @@
-HOST-SUFFIX,vwg-connect.cn
-HOST-KEYWORD,vwg-connect.cn
