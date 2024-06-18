@@ -1,6 +1,3 @@
-# https://openai.com/
-# created by blackmatrix7 
-# repo:https://github.com/blackmatrix7/ios_rule_script
 DOMAIN,cdn.auth0.com,🤖 AI Platforms
 DOMAIN,o33249.ingest.sentry.io,🤖 AI Platforms
 DOMAIN-SUFFIX,ai.com,🤖 AI Platforms
@@ -9,18 +6,37 @@ DOMAIN-SUFFIX,identrust.com,🤖 AI Platforms
 DOMAIN-SUFFIX,stripe.com,🤖 AI Platforms
 DOMAIN-KEYWORD,openai,🤖 AI Platforms
 DOMAIN-KEYWORD,chatgpt,🤖 AI Platforms
-
-# https://claude.ai/
-# created by limbopro
-# repo:https://github.com/limbopro/Profiles4limbo/
 DOMAIN-KEYWORD,claude,🤖 AI Platforms
-
-# https://bard.google.com/
-# created by limbopro
-# repo:https://github.com/limbopro/Profiles4limbo/
 DOMAIN-SUFFIX,google.com,🤖 AI Platforms
 DOMAIN-SUFFIX,apis.google.com,🤖 AI Platforms
 DOMAIN-SUFFIX,bard.google.com,🤖 AI Platforms
 DOMAIN-SUFFIX,in.appcenter.ms,🤖 AI Platforms
 DOMAIN-SUFFIX,ogs.google.com,🤖 AI Platforms
 DOMAIN-SUFFIX,www.google.com,🤖 AI Platforms
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,20473,no-resolve
